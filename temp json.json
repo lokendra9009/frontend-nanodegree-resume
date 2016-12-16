@@ -1,0 +1,17 @@
+{
+	"project":[
+		{
+			"name":"PowerVR",
+			"duration":"Sept 2015 - Present",
+			"team size":20,
+			"description":"PowerVR is a division of Imagination Technologies (formerly VideoLogic) that develops hardware and software for 2D and 3D rendering, and for video encoding, decoding, associated image processing and DirectX, OpenGL ES, OpenVG, and OpenCL acceleration."
+		},
+		{
+			"name":"AT&T Uverse",
+			"duration":"July 2013 - July 2015",
+			"team size" : 40,
+			"description":"AT&T	U-verse includes fiber optic technology to deliver better digital TV, faster Internet, and a smarter phone. Customer can avail various bundles from IPTV, Internet and VOIP."
+		}
+	]
+
+}
